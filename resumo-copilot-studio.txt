@@ -1,0 +1,17 @@
+### Resumo da Documentação do Microsoft Copilot Studio  
+
+O **Microsoft Copilot Studio** é uma plataforma low-code que facilita a criação de agentes de IA para diversas finalidades, como suporte ao cliente e automação de tarefas internas. Ele está disponível como um aplicativo web independente ou integrado ao Microsoft Teams, permitindo que usuários de diferentes níveis técnicos criem soluções personalizadas sem precisar programar.  
+
+A documentação oficial fornece cursos, vídeos e guias para ensinar a configurar e integrar os agentes de IA em sites e outras plataformas. Além disso, o Copilot Studio permite a conexão com diferentes fontes de dados por meio de plug-ins, ampliando suas possibilidades de uso.  
+
+### Recursos e Considerações Importantes  
+
+- **Facilidade de Uso**: Interface gráfica intuitiva para criar agentes sem necessidade de conhecimento avançado em programação.  
+- **Integrações**: Suporte a múltiplos canais, incluindo sites, aplicativos móveis, Microsoft Teams e redes sociais.  
+- **Personalização**: Permite a criação de agentes independentes ou a extensão do Microsoft 365 Copilot para atender necessidades específicas.  
+- **Responsabilidades do Usuário**: Qualquer agente criado é de responsabilidade do usuário, que deve fornecer avisos e garantir o uso adequado.  
+- **Restrições**: Não deve ser utilizado para aplicações médicas ou emergenciais.  
+
+### Acesso e Mais Informações  
+
+A documentação detalha como usar o Copilot Studio e oferece conexões para outras ferramentas da **Power Platform** e do **Microsoft Azure**. Usuários podem acessar a versão web pelo [Copilot Studio](https://copilotstudio.microsoft.com) ou utilizá-lo dentro do Microsoft Teams. Para mais detalhes, consulte a [documentação oficial](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/).
